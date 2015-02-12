@@ -6,8 +6,8 @@ import net.minecraft.launchwrapper.IClassTransformer;
 import org.objectweb.asm.ClassWriter;
 import org.objectweb.asm.Type;
 import org.objectweb.asm.tree.*;
-import squeek.asmhelper.ASMHelper;
-import squeek.asmhelper.ObfRemappingClassWriter;
+import squeek.asmhelper.com.vikestep.sprinklesforvanilla.ASMHelper;
+import squeek.asmhelper.com.vikestep.sprinklesforvanilla.ObfRemappingClassWriter;
 
 import java.util.Arrays;
 
